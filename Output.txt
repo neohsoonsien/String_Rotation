@@ -1,0 +1,7 @@
+Test case number 1, and the string is defgabc
+Test case number 2, and the string is kcfgfgfkgjfgf
+Test case number 3, and the string is hdefgqpp
+Test case number 4, and the string is sxcdwqyte
+Test case number 5, and the string is opklfgbnm
+Test case number 6, and the string is qwertyklp
+Test case number 7, and the string is gdajfmnikj
